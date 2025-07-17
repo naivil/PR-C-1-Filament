@@ -4,7 +4,7 @@
 
 int main()
 {
-	int frequency[122] = {0};
+	int frequency[123] = {0};
 	char str[100];
 	printf("Enter string: \n");
 	scanf("%s", str);
